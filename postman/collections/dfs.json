@@ -1,15 +1,15 @@
 {
 	"info": {
-		"_postman_id": "d7b823a1-c722-46e8-9677-7d6cc000830f",
+		"_postman_id": "ccc1ed3d-906f-44fd-85da-dbd1569b41ac",
 		"name": "dfs",
 		"description": "Buy or rent spacecrafts",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "525986-d7b823a1-c722-46e8-9677-7d6cc000830f"
+		"_uid": "525986-ccc1ed3d-906f-44fd-85da-dbd1569b41ac"
 	},
 	"item": [
 		{
 			"name": "Read a spacecraft",
-			"id": "b9808a3d-f7b3-4109-9b46-1b9f358516db",
+			"id": "434f7cff-7c81-4c5c-af65-809715ce0bbc",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -41,7 +41,7 @@
 			},
 			"response": [
 				{
-					"id": "6e7a65b7-e554-4725-a599-4adbcd0d2bc3",
+					"id": "379ce976-cd9a-47fc-9fb1-70dca227cda8",
 					"name": "The spacecraft corresponding to the provided `spacecraftId`",
 					"originalRequest": {
 						"method": "GET",
@@ -84,7 +84,7 @@
 					"body": "{\n  \"id\": \"<string>\",\n  \"name\": \"null\",\n  \"type\": \"satellite\",\n  \"description\": \"mollit dolore consectetur laborum ex\"\n}"
 				},
 				{
-					"id": "7ca5d19f-c1a1-4338-98e0-644ec38c00aa",
+					"id": "679862b2-f385-486d-95fc-05a4db3f4a1f",
 					"name": "No spacecraft found for the provided `spacecraftId`",
 					"originalRequest": {
 						"method": "GET",
@@ -127,7 +127,7 @@
 					"body": "{\n  \"message\": \"officia ut ex mollit irure\"\n}"
 				},
 				{
-					"id": "6d09c3f6-3523-43d1-acda-9ccca7313893",
+					"id": "2599eda6-1089-4c28-8be8-a28fc7b33696",
 					"name": "Unexpected error",
 					"originalRequest": {
 						"method": "GET",

@@ -9,14 +9,17 @@ id = 2e046581-4747-4f11-bbdd-ce91087ad4aa
 
 [config.relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"525986-41ac279f-e369-4ac7-9e65-0fcd54487952","path":"C1 CHANGED.json","metaData":{}}
-files[] = {"id":"525986-d7b823a1-c722-46e8-9677-7d6cc000830f","path":"dfs.json","metaData":{}}
+files[] = {"id":"525986-ec6fbe6f-9617-4067-a0e1-c50fcf68424c","path":"C1 CHANGED.json","metaData":{}}
+files[] = {"id":"525986-ccc1ed3d-906f-44fd-85da-dbd1569b41ac","path":"dfs.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
 [config.relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index-changed.yaml","metaData":{}}
+files[] = {"path":"New (1).yaml","metaData":{}}
+files[] = {"path":"New (2).yaml","metaData":{}}
+files[] = {"path":"New.yaml","metaData":{}}
 
 [config.relations.apiDefinition.metaData]
 type = openapi:3
