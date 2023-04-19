@@ -17,8 +17,8 @@ files[] = {"id":"525986-ccc1ed3d-906f-44fd-85da-dbd1569b41ac","path":"dfs.json",
 [config.relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index-changed.yaml","metaData":{}}
-files[] = {"path":"New (1).yaml","metaData":{}}
-files[] = {"path":"New (2).yaml","metaData":{}}
+files[] = {"path":"New-changed1.yaml","metaData":{}}
+files[] = {"path":"New-changed2.yaml","metaData":{}}
 files[] = {"path":"New.yaml","metaData":{}}
 
 [config.relations.apiDefinition.metaData]
